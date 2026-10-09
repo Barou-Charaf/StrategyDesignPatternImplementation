@@ -1,4 +1,5 @@
 org/example/strategy/StrategyImpl1.class
+org/example/context/Context.class
 org/example/Main.class
 org/example/strategy/Strategy.class
 org/example/strategy/StrategyImpl2.class
