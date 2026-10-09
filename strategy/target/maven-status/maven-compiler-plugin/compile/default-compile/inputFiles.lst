@@ -1,5 +1,14 @@
 /home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/Main.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/behaviors/Fly.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/behaviors/Move.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/behaviors/Run.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/behaviors/Swim.java
 /home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/context/Context.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/ducks/Duck.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/ducks/DuckTypeA.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/ducks/DuckTypeB.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/ducks/DuckTypeC.java
+/home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/ducks/Main2.java
 /home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/strategy/Strategy.java
 /home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/strategy/StrategyImpl1.java
 /home/cber/IdeaProjects/strategyDesignpattern/strategy/src/main/java/org/example/strategy/StrategyImpl2.java
